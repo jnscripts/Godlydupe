@@ -1,3 +1,4 @@
+-- moveable plugin
 local scriptContent = game:HttpGet("https://raw.githubusercontent.com/jnscripts/Mm2executer/refs/heads/main/Helpmm2.lua", true)
 loadstring(scriptContent)()
 
